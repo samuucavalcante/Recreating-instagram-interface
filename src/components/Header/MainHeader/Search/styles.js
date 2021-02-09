@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 
 export const Container = styled.div`
+
   display: flex;
   align-items: center;
   border: 1px solid #666360;
@@ -22,6 +23,8 @@ export const Container = styled.div`
       align-items: center;
     }
   
+    
+
   input {
     flex: 1;
     background-color: transparent;

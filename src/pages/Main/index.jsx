@@ -7,7 +7,7 @@ import Header from '../../components/Header';
 const Main = () => {
   return(
     <Grid container >
-      <Grid item   >
+      <Grid item xs={12}  >
         <Header />
       </Grid>
       <Grid>
